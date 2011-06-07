@@ -6,8 +6,8 @@
 
 /*
 	Plugin Name: Unified login error messages
-	Plugin URI: http://plugins.svn.wordpress.org/unified-login-error-messages/
-	Description: Changes miscelleanous error message to unified messages
+	Plugin URI: http://x.elektroelch.net/ulem/
+	Description: Changes login error messages to unified message
 	Author: Lutz Schr&ouml;er
 	Version: 1.0
 	License: GPL
