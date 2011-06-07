@@ -22,7 +22,7 @@ makes it more difficult for an attacker to decypher your blog's passwords.
 == Installation ==
 Copy to plugin directory and activate.
 
-== Screenshot ==
+== Screenshots ==
 1. Changed error message
 
 == Changelog ==
