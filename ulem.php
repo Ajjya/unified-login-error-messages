@@ -57,5 +57,5 @@ if (!class_exists('UnifiedLoginErrorMessage')) {
 	} //if
 	
 } //class
-$unified_login_error_message = new UnifiedLoginErrorMessage;
+$unified_login_error_message = new UnifiedLoginErrorMessage();
 ?>
